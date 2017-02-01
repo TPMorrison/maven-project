@@ -27,7 +27,7 @@
 					<deploymentType>cloudhub</deploymentType>
 					<muleVersion>${mule.version}</muleVersion>
 					<username>tommorrison</username>
-					<password>liverpoolfc3</password>
+					<password>Liverpoolfc3</password>
 					<workerType>Micro</workerType>
 					<redeploy>true</redeploy>
 					<environment>Production</environment>
